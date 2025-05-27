@@ -1,0 +1,2 @@
+# CAN-Bus-Communication-System-for-Smart-Diagnostics-in-Autonomous-Vehicles-using-the-STM-32
+This project presents a **low-cost, fault-tolerant Controller Area Network (CAN) Bus communication system** designed for **autonomous vehicle diagnostics**. It enables efficient and reliable data exchange between Electronic Control Units (ECUs), helping to enhance performance and safety in real-time autonomous operations.
